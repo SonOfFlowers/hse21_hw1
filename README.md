@@ -102,3 +102,8 @@ rm -r name_scaff.txt
 ```
 Расчёты можно найти в приложенном блокноте
 
+Поскольку longest.fna у меня весит 0 КВ, я не могу его прикрепить в репозиторий
+
+![image](https://user-images.githubusercontent.com/93160309/139137020-a272baa6-8586-4609-a6f5-e79b010657da.png)
+
+
