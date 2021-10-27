@@ -53,6 +53,7 @@ multiqc -o trimmed_multiqc trimmed_fastqc
 ```
 
 6. Полученные результаты сравниваем:
+
 До:
 ![image](https://user-images.githubusercontent.com/93160309/139125278-a02db6ba-b972-451f-8fff-235c14b419e6.png)
 
